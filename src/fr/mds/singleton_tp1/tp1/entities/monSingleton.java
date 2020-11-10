@@ -5,7 +5,7 @@ import java.util.List;
 
 
 public class monSingleton {
-	List<Entity1> result = new ArrayList<Entity1>();
+	private List<Entity1> result = new ArrayList<Entity1>();
 	
 	private monSingleton()
     {
