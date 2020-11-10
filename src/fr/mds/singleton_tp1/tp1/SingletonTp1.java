@@ -1,8 +1,5 @@
 package fr.mds.singleton_tp1.tp1;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import fr.mds.singleton_tp1.tp1.entities.Entity1;
 import fr.mds.singleton_tp1.tp1.entities.monSingleton;
 
@@ -38,6 +35,4 @@ public class SingletonTp1 {
       System.out.println(item);
     }
   }
-
-
 }
